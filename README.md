@@ -24,7 +24,7 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Deekshu966/nlp-project/tree/main
+   git clone https://github.com/Deekshu966/nlp-project
 
 
 ## Technologies Used
